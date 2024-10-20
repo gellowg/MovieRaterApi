@@ -27,7 +27,7 @@ SECRET_KEY = config('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['movie-rater-geonitic.herokuapp.com', 'localhost', 'movierater.georgetong.cloud']
+ALLOWED_HOSTS = ['movie-rater-geonitic.herokuapp.com', 'localhost', 'movieraterapi-project.georgetong.cloud']
 
 
 # Application definition
